@@ -1,6 +1,6 @@
 package com.example.baekjoon.lv1;
 
-public class lv13 {
+public class Q13 {
     public static void main(String[] args) {
         System.out.println("|\\_/|");
         System.out.println("|q p|   /}");

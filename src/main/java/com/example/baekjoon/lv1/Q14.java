@@ -1,6 +1,6 @@
 package com.example.baekjoon.lv1;
 
-public class lv14 {
+public class Q14 {
     public static void main(String[] args) {
         System.out.println("         ,r'\"7");
         System.out.println("r`-_   ,'  ,/");

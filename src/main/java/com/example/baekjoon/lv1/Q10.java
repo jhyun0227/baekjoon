@@ -2,7 +2,7 @@ package com.example.baekjoon.lv1;
 
 import java.util.Scanner;
 
-public class lv10 {
+public class Q10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
