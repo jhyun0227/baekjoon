@@ -11,12 +11,11 @@ public class Q9 {
 
         for (int i = 1; i <= n; i++) {
             String star = "";
-            for (int j = 1; j <= i; j++) {
-                if (j == i) {
-                    star += "*";
-                } else {
-                    star += " ";
-                }
+            for (int j = 1; j <= n - i; j++) {
+                star += " ";
+            }
+            for (int k = 1; k <= i; k++) {
+                star += "*";
             }
 
             bw.write(star + "\n");
