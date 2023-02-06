@@ -36,7 +36,7 @@ public class Q12 {
                 result = strB + addString.substring(1);
             }
 
-            if (result.equals(strN)) {
+            if (Integer.parseInt(result) == (Integer.parseInt(strN))) {
                 bool = false;
             }
 
